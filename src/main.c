@@ -14,8 +14,8 @@
 #include "ht_udp_server.h"
 #include "ht_wifi.h"
 
-static const char* WIFI_SSID = "Alpaky";
-static const char* WIFI_PASS = "pandy-19080909";
+static const char* WIFI_SSID = "SSID";
+static const char* WIFI_PASS = "PASSWORD";
 static const int HUB_BEACON_PORT = 29921;
 static const int HUB_HTTP_PORT = 5000;
 static const int IOT_BUTTON_GPIO_NUM = 14;
